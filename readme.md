@@ -20,3 +20,7 @@ You will need to type `yes` to accept the cluster configuration
 
 5. video: https://youtu.be/ScsWSeJoq2E
 
+6. redis with sentinel
+https://youtu.be/MHlxlwZ5U6M
+
+
