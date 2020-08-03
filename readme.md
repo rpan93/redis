@@ -18,3 +18,5 @@
 
 You will need to type `yes` to accept the cluster configuration
 
+5. video: https://youtu.be/ScsWSeJoq2E
+
